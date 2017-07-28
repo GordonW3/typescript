@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"sourceMap": true
+	},
+	"files": [
+		"arrow_functions.ts"
+	]
+}
