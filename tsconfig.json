@@ -3,6 +3,6 @@
 		"sourceMap": true
 	},
 	"files": [
-		"closure_introduction.ts"
+		"interface_functions.ts"
 	]
 }
